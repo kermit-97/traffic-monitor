@@ -9,4 +9,4 @@ Nelle tre cartelle si può trovare tutto il materiale prodotto durante lo svolgi
 - design del sistema
 - codice Java del sistema implementato (v. readme)
 
-Inoltre è presente la documentazione consegnata "Documento finale.pdf".
+Inoltre è presente la documentazione consegnata ("Documento finale.pdf").
