@@ -10,3 +10,6 @@ Nelle tre cartelle si può trovare tutto il materiale prodotto durante lo svolgi
 - codice Java del sistema implementato (v. readme)
 
 Inoltre è presente la documentazione consegnata ("Documento finale.pdf").
+
+# Studenti
+Altieri Matteo, Genesi Lorenzo, Marforio Simone.
